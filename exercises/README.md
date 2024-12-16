@@ -4,9 +4,9 @@ Links copied from main course web page
 
 <!-- mtoc-start -->
 
-* [Exercise 1 🚧](#exercise-1-)
-* [Exercise 2](#exercise-2)
-* [Exercise 3](#exercise-3)
+* [Exercise 1 ✅](#exercise-1-)
+* [Exercise 2 🚧](#exercise-2-)
+* [Exercise 3 ⏎](#exercise-3-)
 * [Exercise 4](#exercise-4)
 * [Exercise 5](#exercise-5)
 * [Exercise 6](#exercise-6)
@@ -14,18 +14,18 @@ Links copied from main course web page
 
 <!-- mtoc-end -->
 
-## Exercise 1 🚧
+## Exercise 1 ✅
 
 - [Review of digital image processing and convolutions](https://github.com/tub-rip/improc_py)
 - [Python script (to be filled in)](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Ftub-rip%2Fimproc_py%2Fblob%2Fmaster%2Fex1_imgproc_notebook_to_fill.ipynb&sa=D&sntz=1&usg=AOvVaw1LdU3SUg25nZGnJm_ZitUr)
 - [Solution: python script, (or Jupyter notebook)](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Ftub-rip%2Fimproc_py%2Fblob%2Fmaster%2Fex1_imgproc_notebook.ipynb&sa=D&sntz=1&usg=AOvVaw1J2L3llyVc0U2EYqQjUq-N)
 
-## Exercise 2
+## Exercise 2 🚧
 
 - [Instructions (in the Jupyter notebook): Event readout and visualization (representations)](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Ftub-rip%2Fevents_viz&sa=D&sntz=1&usg=AOvVaw1S6mBueB6c49HBuxBS5HIE)
 - [Linear voting (smooth histogram computation)](https://drive.google.com/file/d/1zLDKtmRxUb9zOspH7-BqoMv5tdE2viuq/view?usp=sharing)
 
-## Exercise 3
+## Exercise 3 ⏎
 
 - [Problem Statement: Event Visualizer in ROS](https://drive.google.com/file/d/1YJuOIG2zOKnvFksZ7xKJYTK5PKNv4Gf-/view?usp=sharing)
   - [Here is an introductory video about ROS (there are many online)](https://youtu.be/0BxVPCInS3M)
