@@ -17,6 +17,8 @@ Links copied from main course web page
 ## Exercise 1 🚧
 
 - [Review of digital image processing and convolutions](https://github.com/tub-rip/improc_py)
+- [Python script (to be filled in)](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Ftub-rip%2Fimproc_py%2Fblob%2Fmaster%2Fex1_imgproc_notebook_to_fill.ipynb&sa=D&sntz=1&usg=AOvVaw1LdU3SUg25nZGnJm_ZitUr)
+- [Solution: python script, (or Jupyter notebook)](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Ftub-rip%2Fimproc_py%2Fblob%2Fmaster%2Fex1_imgproc_notebook.ipynb&sa=D&sntz=1&usg=AOvVaw1J2L3llyVc0U2EYqQjUq-N)
 
 ## Exercise 2
 
