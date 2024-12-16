@@ -1,0 +1,5 @@
+pip
+jupyter
+wget
+opencv-python
+matplotlib
