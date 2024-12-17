@@ -21,10 +21,11 @@
   workshops) as well as drivers, code, datasets, simulators and other essential
   tools in event-based vision.
 
+## 📸 Summary of Event-Based Vision Notes
+
 <!-- mtoc-start -->
 
-* [📸 Summary of Event-Based Vision Notes](#-summary-of-event-based-vision-notes)
-  * [Key Features of Event-Based Cameras](#key-features-of-event-based-cameras)
+* [Key Features of Event-Based Cameras](#key-features-of-event-based-cameras)
   * [Mathematical Model for Event Generation](#mathematical-model-for-event-generation)
   * [Types of Event-Based Sensors](#types-of-event-based-sensors)
   * [Representations of Event Data](#representations-of-event-data)
@@ -34,8 +35,6 @@
   * [Future Directions](#future-directions)
 
 <!-- mtoc-end -->
-
-## 📸 Summary of Event-Based Vision Notes
 
 ### Key Features of Event-Based Cameras
 
