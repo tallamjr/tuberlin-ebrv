@@ -4,6 +4,8 @@
 
 [Course Description](https://drive.google.com/file/d/1oGUnvcIwhG9xNmy1mDmNSSrlRdf9Rhgf/view)
 
+[Youtube Playlist](https://www.youtube.com/playlist?list=PL03Gm3nZjVgUFYUh3v5x8jVonjrGfcal8)
+
 > Participants will learn basic concepts, theoretical foundations and relevant
 > algorithms developed in the field of event-based (i.e., neuromorphic) vision.
 > Upon completing the module, participants will have an overview of the field,
